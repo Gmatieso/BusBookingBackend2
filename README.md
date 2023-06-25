@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 ##  API Documentation Reference:
-https://documenter.getpostman.com/view/21219256/2s93z6ejci
+Get your Publish API Here: https://documenter.getpostman.com/view/21219256/2s93z6ejci
